@@ -1,0 +1,1 @@
+Este es el panel de administración del Administrador
